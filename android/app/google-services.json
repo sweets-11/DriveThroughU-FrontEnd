@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "510931633542",
+    "project_id": "drivethroughu-d24cb",
+    "storage_bucket": "drivethroughu-d24cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510931633542:android:bab7ce448b3ba664285807",
+        "android_client_info": {
+          "package_name": "com.drivethroughu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByB7qGMI0leSNeGDs6wCFrqAOh_vbu2FU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510931633542:android:b9b6f181aa19f67f285807",
+        "android_client_info": {
+          "package_name": "com.zipcart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByB7qGMI0leSNeGDs6wCFrqAOh_vbu2FU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
